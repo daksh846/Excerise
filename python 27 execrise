@@ -1,0 +1,13 @@
+execrise
+Full list of fruits:
+['Apple', 'Banana', 'Orange', 'Mango', 'Pineapple', 'Grapes', ...]
+
+Any one random item from fruits: Kiwi
+Any two random items from fruits: ['Mango', 'Papaya']
+Any three random items from fruits: ['Banana', 'Orange', 'Guava']
+
+After shuffle:
+['Cherry', 'Papaya', 'Lychee', 'Apple', ...]
+
+Another list of 5 random unique fruits:
+['Peach', 'Kiwi', 'Banana', 'Mango', 'Guava']
